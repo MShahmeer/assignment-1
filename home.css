@@ -119,6 +119,9 @@
   float: left;
   width: 100%;
 }
+.PicsWithoutSlide img:hover {
+  opacity: 0.5;
+}
 .PicsWithoutSlide {
   width: 45%;
   float: left;
